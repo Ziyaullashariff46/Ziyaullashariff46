@@ -107,12 +107,13 @@
 ### 📊 GitHub Analytics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Ziyaullashariff46&show_icons=true&theme=tokyo_night&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Ziyaullashariff46&theme=tokyo_night&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ziyaullashariff46&theme=tokyo_night" height="180" alt="GitHub Profile Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Ziyaullashariff46&theme=tokyo_night&hide_border=true" height="180" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Ziyaullashariff46&layout=compact&theme=tokyo_night&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ziyaullashariff46&theme=tokyo_night" height="180" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ziyaullashariff46&theme=tokyo_night" height="180" alt="Most Commit Language" />
 </p>
 
 ---
@@ -137,5 +138,3 @@
   <sub>✨ Designed with passion & precision by <b>Ziya Ulla Shariff</b> ✨</sub><br/>
   <img src="https://komarev.com/ghpvc/?username=Ziyaullashariff46&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
-<img src="https://raw.githubusercontent.com/Ziyaullashariff46/Ziyaullashariff46/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
