@@ -137,3 +137,5 @@
   <sub>✨ Designed with passion & precision by <b>Ziya Ulla Shariff</b> ✨</sub><br/>
   <img src="https://komarev.com/ghpvc/?username=Ziyaullashariff46&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
+<img src="https://raw.githubusercontent.com/Ziyaullashariff46/Ziyaullashariff46/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
