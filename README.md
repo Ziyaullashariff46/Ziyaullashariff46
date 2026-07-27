@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=50&lines=Engineering+Student+%26+Developer+🎓;Python%2C+AI%2FML+%26+Web+Applications+🤖;Turning+Complex+Logic+into+Intuitive+UI+✨;Passionate+about+Data+Science+%26+Cloud+☁️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=50&lines=Engineering+Student+and+Developer;Python,+AI/ML+and+Web+Applications;Turning+Complex+Logic+into+Intuitive+UI;Passionate+about+Data+Science+and+Cloud" alt="Typing SVG" />
   </a>
 </p>
 
@@ -107,32 +107,20 @@
 ### 📊 GitHub Analytics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ziyaullashariff46&show_icons=true&theme=tokyo_night&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ziyaullashariff46&theme=tokyo_night&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Ziyaullashariff46&show_icons=true&theme=tokyo_night&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Ziyaullashariff46&theme=tokyo_night&hide_border=true" height="175" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziyaullashariff46&layout=compact&theme=tokyo_night&hide_border=true&include_all_commits=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Ziyaullashariff46&layout=compact&theme=tokyo_night&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 ---
 
-### 🚀 Featured Highlights
-
-| Project Name | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| ⚡ **AI Model Platform** | Full-stack machine learning model deployment and analytics dashboard. | `Python` `Django` `Scikit-Learn` | [View Repo ↗](https://github.com/Ziyaullashariff46) |
-| 🌐 **Dynamic Web App** | Modern web interface consuming complex backend microservices. | `JavaScript` `HTML/CSS` `Flask` | [View Repo ↗](https://github.com/Ziyaullashariff46) |
-| 📊 **Data Analytics Suite** | Interactive data visualization and exploratory data analysis workspace. | `Pandas` `NumPy` `Plotly` | [View Repo ↗](https://github.com/Ziyaullashariff46) |
-
----
-
-### 🐍 GitHub Contribution Activity
+### 📈 Contribution Graph
 
 <p align="center">
-  <!-- GitHub Contribution Snake Animation -->
-  <!-- Note: You can enable auto-generating contribution snake SVG via GitHub Actions! -->
-  <img src="https://raw.githubusercontent.com/Ziyaullashariff46/Ziyaullashariff46/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" onerror="this.style.display='none'" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ziyaullashariff46&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
